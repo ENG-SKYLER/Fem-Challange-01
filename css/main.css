@@ -112,6 +112,7 @@ body {
   }
   .main-content > div {
     margin: auto;
+    width: 70%;
   }
   .main-content > div:nth-child(3) {
     order: 1;
@@ -120,11 +121,11 @@ body {
     margin-top: 30px;
   }
   .main-content > div:nth-child(1) {
-    transform: translate(10%, 50%);
+    transform: translate(30%, 50%);
 
     /* margin-right: 30px; */
   }
   .main-content > div:nth-child(4) {
-    transform: translate(-10%, 50%);
+    transform: translate(-30%, 50%);
   }
 }
